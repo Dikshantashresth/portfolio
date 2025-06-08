@@ -1,6 +1,6 @@
 import React from 'react';
 import { useForm, ValidationError } from '@formspree/react';
-import './Contact.css';
+import './contact.css';
 import Nav from './Nav';
 
 const Contact = () => {
