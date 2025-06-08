@@ -1,0 +1,34 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: #111111;
+
+}
+.nav {
+  background-color: white;
+  
+}
+.nav ul{
+  gap: 30px;
+  list-style:none;
+  display: flex;
+
+}
+.cards{
+  margin: 20px 20px;
+  border:1px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.nav ul li{
+  cursor: pointer;
+  font-size: large;
+  padding: 30px;
+  
+  color: black;
+}
