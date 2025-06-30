@@ -92,7 +92,7 @@ const Grid = () => {
                 <a href="https://github.com/Dikshantashresth"><img src={github} alt="" /></a>
 
             </div>
-            <div className='item8'><h2>Resume</h2> <a href="">Check CV</a></div>
+            <div className='item8'><h2>Resume</h2> <a href="https://drive.google.com/file/d/11iSdI3u9ooJ1C7881g62iuSrw8iN5eek/view?usp=sharing">Check CV</a></div>
 
         </div>
     )
