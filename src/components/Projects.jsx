@@ -5,7 +5,15 @@ import Nav from './Nav';
 import portfolio from '../assets/portfolio.png';
 import footquiz from '../assets/footquiz.png';
 import archimedes from '../assets/Archimedes.png';
+import anifo from '../assets/anifo.png'
 const projects = [
+  {
+    title: 'Anifo',
+    img: anifo,
+    description: 'An anime detail website that provides information, reviews, and updates about your favorite anime series.Data is fetched from JIKAN API using axios',
+    Stack: 'React,framer motion, Axios, Material-UI (MUI)',
+    link: 'https://dikshantashresth.github.io/Anifo/'
+  },
   {
     title: 'Portfolio Website',
     img: portfolio,
