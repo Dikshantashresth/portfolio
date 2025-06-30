@@ -38,7 +38,7 @@ const Grid = () => {
                 <h4>🧠 Core</h4>
                 <ul>
                     <li>HTML5, CSS3, JavaScript (ES6+), MySql</li>
-                    <li>React.js (Basic–Intermediate), Express, MaterialUI, <Node></Node></li>
+                    <li>React.js (Basic–Intermediate), Express, MaterialUI,Node</li>
                     <li>Responsive Design, Flexbox, Grid</li>
                 </ul>
 
